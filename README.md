@@ -33,7 +33,7 @@ For example:
 
 The servo motor was successfully connected to the Arduino UNO and controlled to rotate to different angles.
 
-![][image1]
+![image1](result.jpeg)
 
 ![][image2]
 
