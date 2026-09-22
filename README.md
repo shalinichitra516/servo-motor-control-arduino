@@ -33,9 +33,9 @@ For example:
 
 The servo motor was successfully connected to the Arduino UNO and controlled to rotate to different angles.
 
-![image1](result.jpeg)
+![image1](simulation.jpeg)
 
-![][image2]
+![image2](result.jpeg)
 
 **Conclusion**
 
